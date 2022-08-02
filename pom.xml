@@ -22,7 +22,7 @@
             <id>dev</id>
             <properties>
                 <!--企业微信应用-->
-                <wx.corpid>1000002</wx.corpid>
+                <wx.corpid>wwa8abd89e02da84c7</wx.corpid>
                 <wx.corpsecret>sXBVbJTrFjSHxXdzg2IVu1ej8qR1AsDBI-jUvisoDT8</wx.corpsecret>
             </properties>
             <activation>

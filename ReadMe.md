@@ -6,3 +6,17 @@
             <optional>true</optional>
 </dependency>
 ```
+
+#### 使用说明
+> wx.corpid=企业id
+> 
+> wx.corpsecret=应用密钥
+> 
+> spring.redis.host=
+> 
+> spring.redis.port=
+> 
+> spring.redis.database=
+> 
+> spring.redis.password=
+
