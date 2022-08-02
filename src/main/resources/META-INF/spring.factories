@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.wsj.wxnotice.interfaces.WxServiceApi,\
+com.wsj.wxnotice.config.WxConfig,\
+com.wsj.wxnotice.config.ApplicationUtil,\
+com.wsj.wxnotice.config.RedisConfig
