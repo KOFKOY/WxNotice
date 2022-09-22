@@ -9,5 +9,6 @@ public class WxNoticeApplication {
     public static void main(String[] args) {
         SpringApplication.run(WxNoticeApplication.class, args);
     }
+    //TODO TEST
 
 }
